@@ -1,0 +1,11 @@
+Diego Melgar
+04/2013
+
+This program computes displacement response spectra from acceleration
+or displacement (GPS) data. It solves the ODE for a single degree
+of freedom harmonic oscillator using finite differences. If you use
+this code please reference:
+
+Melgar, D., Y. Bock, D. Sanchez, and B.W. Crowell (2013), On robust and 
+reliable automated baseline corrections for strong motion seismology, 
+J. Geophys. Res., 118, doi: 10.1002/jgrb.50135
